@@ -195,7 +195,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569142972282" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569144033542" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -227,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.OioSocketClientBootstrapTest">
+  <component name="RunManager" selected="JUnit.BootstrapTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -346,9 +346,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BootstrapTest" />
         <item itemvalue="JUnit.OioSocketClientBootstrapTest" />
         <item itemvalue="JUnit.BootstrapTest.shouldNotAllowFactoryToChangeMoreThanOnce" />
-        <item itemvalue="JUnit.BootstrapTest" />
         <item itemvalue="JUnit.BootstrapTest.shouldNotAllowInitialFactoryToChange" />
         <item itemvalue="JUnit.BootstrapTest.shouldNotReturnNullFactory" />
       </list>
